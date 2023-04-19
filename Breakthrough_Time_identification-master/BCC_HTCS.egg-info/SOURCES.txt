@@ -1,0 +1,8 @@
+README.txt
+setup.py
+BCC_HTCS/BCC.py
+BCC_HTCS/__init__.py
+BCC_HTCS.egg-info/PKG-INFO
+BCC_HTCS.egg-info/SOURCES.txt
+BCC_HTCS.egg-info/dependency_links.txt
+BCC_HTCS.egg-info/top_level.txt
