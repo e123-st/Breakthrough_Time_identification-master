@@ -1,0 +1,52 @@
+Input Parameters
+----------------------------------------------------------------------
+Universal Parameters 
+--------------------------------------------------
+Address of Excel : ..\excel.xlsx
+sheet name : 0
+Row of Excel Table : 0
+Space Step Length [m] : 2e-3
+Space Steps : 15
+Time Step Length [h] : 1e-6
+Minimum Time Steps : 1E6
+Interstitial Velocity [m/s] : 0.0023
+Pressure [Pa] : 1e5
+Temperature [K] : 298
+Porosity of the Bed : 0.4
+Porosity of the Adsorbent Particles : 0.3
+Breakthrough Time Calculation : Yes
+Maximum Iteration : 5
+
+Component 0 : A
+molar fraction : 0.25
+axial dispersion cofficient [m^2/s] : 9.53e-6
+
+Parameters for Adsorbent
+--------------------------------------------------
+Density of Material [kg/m^3] : 2301.54817650232
+Density of Bed [kg/m^3] : 966.6502341309744
+Density of Particle [kg/m^3] : 1611.083723551624
+
+Saturation Value of Adsorbate Loading [mol/kg]
+Component 0 : 1.5524371529
+
+Equilibrium Constant of Langmuir [m^3/mol]
+Component 0 : 0.00650694
+
+Overall Mass Transfer Coefficient [s^-1]
+Component 0 : 3.215267895602109
+
+Simulation Finish
+----------------------------------------------------------------------
+
+Material : X
+
+Iteration : 2
+
+Component 0 : 0
+Breakthrough Time [h] : 0.018809
+                [min] : 1.1285399999999999
+                  [s] : 67.7124
+
+C/C0 for Breakthrough Time : 0.011710656333529142
+
