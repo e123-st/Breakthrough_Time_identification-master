@@ -27,7 +27,7 @@ BTI2 module can also be used to calculate the breakthrough time via prolonging t
 
 # Steps to use the software package  
 ## 1. Input files preparation  
-To use this package, the python file, excel file, and "Parameters.input" file should be prepared. After preparing the above files, the python file and the "Parameters.input" file should be placed in the same folder, and the path of this folder should be set as the operation path when the python IDE is used under Windows system. The excel file can be placed in any address. The examples of above three files except script file are provided in the "Example" folder.
+To use this package, the python file, excel file, and "Parameters.input" file should be prepared. After preparing the above files, the python file and the "Parameters.input" file should be placed in the same folder, and the path of this folder should be set as the operation path when the python IDE is used under Windows system. The excel file can be placed in any address. The examples of above three files except script file are provided in the "Example.zip" file.
 
 ▲NOTE: The styles of "Parameters.input" file and excel file for BTI2 module are different from those for the other two modules. The parameters for elements should be not set if they do not exist in gas mixture for BTI2 module, which should be set to 0 for BCC and BTI modules.
 
